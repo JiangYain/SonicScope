@@ -1,6 +1,6 @@
 # SonicScope
 
-[English](#english) | [中文](#中文)
+<img width="1821" height="1209" alt="image" src="https://github.com/user-attachments/assets/5a6dbda8-bea1-4f2b-9f8f-c7557a30da30" />
 
 ---
 
