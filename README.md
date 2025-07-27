@@ -12,13 +12,13 @@
 
 ### 安装使用
 
-### ✅ 安装 `.vsix` 插件到 VS Code 的方法
+### 安装 `.vsix` 插件到 VS Code 的方法
 
 #### 方法一：使用 VS Code 命令面板
-1. 打开 VS Code。
+1. 打开 VS Code或者其他基于VS Code的IDE
 2. 按下快捷键：`Ctrl + Shift + P`（Mac 是 `Cmd + Shift + P`）。
 3. 输入 `Install from VSIX`，然后选择 `Extensions: Install from VSIX...`。
-4. 浏览并选择你下载的 `.vsix` 文件。
+4. 浏览并选择你下载的 `sonicscope-0.0.1.vsix` 文件。
 5. 等待安装完成，VS Code 会提示你重启插件或重启 VS Code。
 
 ---
@@ -28,13 +28,13 @@
 2. 输入以下命令（假设你已经安装了 `code` 命令）：
 
    ```bash
-   code --install-extension 路径/你的插件.vsix
+   code --install-extension sonicscope-0.0.1.vsix
    ```
 
    示例：
 
    ```bash
-   code --install-extension C:\Users\you\Downloads\my-extension.vsix
+   code --install-extension C:\Users\you\Downloads\sonicscope-0.0.1.vsix
    ```
 
 > ⚠️ 如果提示找不到 `code` 命令，可以在 VS Code 中按 `Ctrl + Shift + P`，输入  
@@ -76,7 +76,7 @@ sonicscope/
 
 ### 许可证
 
-本项目采用 **GNU 通用公共许可证 第三版 (GPL-3.0 或更高版本)**，强制衍生作品以相同协议开源。
+强制衍生作品以相同协议开源
 
 ---
 
