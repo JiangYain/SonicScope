@@ -6,6 +6,8 @@
 
 ## 中文
 
+<img width="1821" height="1209" alt="image" src="https://github.com/user-attachments/assets/dfeb3bdf-ff6e-47d3-941c-a755a8b3b260" />
+
 **SonicScope** 
 一个用于音频波形和频谱可视化的 VS Code 扩展，如果你是一个声学开发者或者开发过程中需要高强度接触音频的开发者，你就可以使用这个IDE插件来避免检查音频状态而切换Aodbe Audition，支持多种音频格式：WAV、MP3、FLAC、OGG，使用WebView承载嵌入式网页视图，使用WaveSurfer.js 7.9.9实时波形和频谱图渲染，针对大文件优化的加载性能（但是大文件依然没有办法和宿主软件对比）点击跳转到指定时间位置，空格键播放/暂停
 
